@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: https://docs.galacticore-nft.com/
+branding:
+  title: Galacticore
+  label: Docs
+links:
+- text: Homepage
+  link: https://galacticore-nft.com/
+- text: Twitter
+  link: https://twitter.com/GalacticoreNFT
+- text: Discord
+  link: https://discord.gg/bPE7q3bz53
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
